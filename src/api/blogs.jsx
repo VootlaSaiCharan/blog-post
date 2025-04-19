@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3001';
+const API_URL = 'http://23.22.201.151:3001';
 
 export const getBlogs = async (page = 2, limit = 7) => {
   const response = await axios.get(`${API_URL}/blogs?_page=${page}&_limit=${limit}&_sort=createdAt&_order=desc`);
