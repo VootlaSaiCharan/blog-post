@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "dcf1",
+      "name": "vivek Kumar Choubey",
+      "email": "choubeyvivek2000@gmail.com",
+      "password": "vivek"
+    },
+    {
+      "id": "9b53",
+      "name": "Manprit singh",
+      "email": "manpritsingh@gmail.com",
+      "password": "manprit"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Reactjs",
+      "content": "Reactjs hi ",
+      "id": "dd47"
+    },
+    {
+      "id": "1e0e",
+      "title": "Javascript",
+      "content": "sdfghj",
+      "userId": "dcf1",
+      "author": "vivek Kumar Choubey",
+      "createdAt": "2025-04-19T07:55:29.955Z"
+    },
+    {
+      "id": "9dcf",
+      "title": "HTML",
+      "content": "asfgh",
+      "userId": "dcf1",
+      "author": "vivek Kumar Choubey",
+      "createdAt": "2025-04-19T07:55:37.173Z"
+    },
+    {
+      "id": "eec5",
+      "title": "HTML",
+      "content": "asdfghjkl",
+      "userId": "dcf1",
+      "author": "vivek Kumar Choubey",
+      "createdAt": "2025-04-19T07:56:07.844Z"
+    },
+    {
+      "id": "a112",
+      "title": "Manprit singh",
+      "content": "asdfghjkwertyujkcvbnm,",
+      "userId": "dcf1",
+      "author": "vivek Kumar Choubey",
+      "createdAt": "2025-04-19T10:36:27.067Z"
+    }
+  ],
+  "auth": []
+}
